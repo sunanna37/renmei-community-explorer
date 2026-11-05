@@ -1,0 +1,3 @@
+export const captions=['今天，我們要一起去認識學校附近的社區！','小朋友，準備好了嗎？今天我們要去社區探險囉！','準備好了！帶上好奇心，一起發現社區的秘密吧！','仁美國小社區小小探險家。出發前，先來準備探險工具吧！'];
+export function animateIntro(onCaption,onEnd){let i=0;onCaption(captions[0],0);const timer=setInterval(()=>{i++;if(i===captions.length){clearInterval(timer);onEnd();}else onCaption(captions[i],i);},5000);return ()=>clearInterval(timer);}
+export function person(kind){return kind==='teacher'?'<img class="story-character teacher-character" src="assets/characters/teacher-v2.png" alt="親切揮手的可愛老師">':'<img class="story-character children-character" src="assets/characters/children-v2.png" alt="背著背包的可愛學生">';}

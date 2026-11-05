@@ -1,0 +1,701 @@
+[
+  {
+    "id": "school",
+    "name": "臺中市北屯區仁美國民小學",
+    "short": "仁美國小",
+    "icon": "🏫",
+    "address": "臺中市北屯區崇德路三段568號",
+    "lat": 24.19183365,
+    "lng": 120.68718111,
+    "official": "https://jmes.tc.edu.tw/",
+    "source": "https://www.tc.edu.tw/page/d61c396e-63a3-4286-ac38-9874ac4092fe/school-content?id=721",
+    "coordinateSource": "https://www.openstreetmap.org/way/272567434",
+    "coordinateNote": "OSM 校地邊界頂點平均位置；校地代表點，非校門導航點。",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": []
+  },
+  {
+    "id": "temple",
+    "name": "臺中文昌廟",
+    "short": "文昌廟",
+    "icon": "🏮",
+    "address": "臺中市北屯區昌平路二段41號",
+    "lat": 24.1907107279624,
+    "lng": 120.684829680562,
+    "official": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68",
+    "source": "https://tcmb.culture.tw/zh-tw/detail?id=19851127000007&indexCode=BOCH_CountryCulture_11",
+    "coordinateNote": "文化部文化資產局公開座標。",
+    "color": "#b34f40",
+    "stamp": "文化探索章",
+    "tagline": "屋頂上，藏著什麼故事？",
+    "guide": "這裡是臺中文昌廟，一座有故事的老廟。以前的人重視讀書，也會來這裡祈求學習順利。仔細看，廟的屋頂、門口和牆上，有好多值得觀察的裝飾。這些建築是大家珍惜的文化資產。我們可以用眼睛欣賞，用筆記錄，記得輕聲說話，不要攀爬或碰壞裝飾。信仰可以不同，一樣能尊重彼此。 現在觀察這張真實照片，找找燕尾造型的屋脊、中間門內的小香爐、中央門右邊的石雕。",
+    "coordinateSource": "https://tcmb.culture.tw/zh-tw/detail?id=19851127000007&indexCode=BOCH_CountryCulture_11",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-00.jpg",
+        "caption": "文昌廟指定尋寶照片；Google 地圖標示 2022年10月；非即時影像",
+        "credit": "Paul Chien",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/fSb9Zzbz3JqXFwwT9",
+        "source": "https://maps.app.goo.gl/fSb9Zzbz3JqXFwwT9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U86wdHZLgt2xVKrqNAPMSNNcrw14UAUxV7LtLi0Yj5HC95yGHM24fhzLHkxNiV78tjkBqw1825rXSU_p-GtM_pb1_SL89iDncxrT1n_OP1eshSgBZFyQTliCQJE81LJ7ODbW_yq1Q=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-01.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2022年5月；非即時影像",
+        "credit": "Zander Tsai",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/J9PNXamc6tdVX8mh7",
+        "source": "https://maps.app.goo.gl/J9PNXamc6tdVX8mh7",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-pptkopTLNKk7a9cDBPJJ5IDNzvtNsux0b8u7CuT8KKbLediaTyB9pkR-3hUmdLl7L95k1jpZdxsXLXEobPcwWAayMvP7Xi8QEM_XLFQH9TPh1ReDqZDmde62glvgCZIxwJCsQ1Q=s1024-v1",
+        "width": 645,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-02.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2024年10月；非即時影像",
+        "credit": "SK Y",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/C4gstvFSdSXjiPj87",
+        "source": "https://maps.app.goo.gl/C4gstvFSdSXjiPj87",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-lOjG19gajxk2g2QEtq5OvkgaV3_DFs_4SUZ3qAMw9tb_17Fol3kqqxlRmr5yy1RjTsrUDtQHd67SXKBH2Azuy1SeqxWBKMIP3CXHeFlbb5NU5rR8SBnq_8fKvUmpuYrpBUL_y2A=s1024-v1",
+        "width": 1024,
+        "height": 576,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-03.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2024年10月；非即時影像",
+        "credit": "SK Y",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/n3DmN91cbpSsFGDg9",
+        "source": "https://maps.app.goo.gl/n3DmN91cbpSsFGDg9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-uG5VmOZxQ-ktC9UqWYm4Co_-pd8F5rD5yYMUZOdxtkshZ6LhN9bs_E3yYcDnInExW-n0P-_doY3EHJ8lhtabO8n8lEFkdECfy7KMTI9Ap3tZcDNEFVgWtTEdLIriBMLz1SWiHNQ=s1024-v1",
+        "width": 576,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-04.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2022年2月；非即時影像",
+        "credit": "Wilson Lai",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/aWRDYv27hLiKLBjq9",
+        "source": "https://maps.app.goo.gl/aWRDYv27hLiKLBjq9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_uAZZJqLBua7LEAvop3SNPlSn4zBoi-nhd5H4pNhHmHDqINqcIdtkE8DJvRoEeZ9ua2HxG0Uty4SEaznhCixtGdWCQ6oqOd-wFckTlKm9m6Smaem2u5uVzteLg0RC5dUjrJisieQ=s1024-v1",
+        "width": 768,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-05.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2026年10月；非即時影像",
+        "credit": "Morgan Lee",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/jmZYEi1kpKySiamx9",
+        "source": "https://maps.app.goo.gl/jmZYEi1kpKySiamx9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_lFgE5TYZLVirXrX_vRt_98JkwTpLE_UF4QscB306hRgB_ZWEupSFLn7YXP7RHRcCxZg8zvdHARMHPFcjUqWVpQzDo_ietxykfyt5eWt6y4ss8etQxvA6kGjCjnlL4fHTeVh8OB8SgpJZL=s1024-v1",
+        "width": 683,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/temple-selected-v5-06.jpg",
+        "caption": "文昌廟現場實拍照片；Google 地圖標示 2026年5月；非即時影像",
+        "credit": "鄭雅文",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/4gaJhASKQn4e79gY6",
+        "source": "https://maps.app.goo.gl/4gaJhASKQn4e79gY6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U909Ba3saDuSZru18cW8UehkudEakpjKEgtH1HKgXALOROKdrxrA4iVfAvpuyD7jUEkCPqvCNMO7GwFUPYqvF4TbLp21Onm8DpjshMeHpvXBaAZXGlzb6nnNTXz0_fzXUAnSKVqjbFgrIEO=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      }
+    ],
+    "checkinImage": "assets/checkins/temple-real-v5.svg",
+    "stampImage": "assets/stamps/temple.svg",
+    "knowledge": [
+      {
+        "title": "主祀神明",
+        "text": "臺中文昌廟以文昌帝君為主神，與地方重視讀書、教育的文化有關。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "社學與教育",
+        "text": "文昌廟曾開辦社學，提供地方居民讀書、識字的機會，兼有教育功能。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "文化資產",
+        "text": "臺中文昌廟是直轄市定古蹟，保存具有歷史、文化與藝術價值的寺廟建築。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "建廟歷史",
+        "text": "文昌廟現址於清同治年間興建，1871 年竣工，屬於清領時期的建築。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      }
+    ]
+  },
+  {
+    "id": "post",
+    "name": "臺中四張犁郵局",
+    "short": "四張犁郵局",
+    "icon": "✉️",
+    "address": "臺中市北屯區豐樂路二段162號",
+    "lat": 24.194794,
+    "lng": 120.679833,
+    "official": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5",
+    "coordinateNote": "中華郵政營業據點公布座標。",
+    "color": "#307551",
+    "stamp": "郵件達人章",
+    "tagline": "把想念，寄到遠方。",
+    "guide": "如果想把生日卡片寄給遠方的朋友，可以請郵局幫忙。這裡是臺中四張犁郵局，郵局能幫大家寄信，也能寄包裹。寄信前，要寫清楚收件人的姓名和地址，並依需要貼上足夠的郵票。郵差叔叔、阿姨會把信送往目的地。下次和大人一起寄信時，可以觀察郵局的招牌，也問問工作人員信件該怎麼寄。 現在觀察這張真實照片，找找上方綠色的大招牌、郵局的入口、右邊的花圃。",
+    "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5",
+    "coordinateSource": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-07.jpg",
+        "caption": "四張犁郵局指定尋寶照片；Google 地圖標示 2026年5月；非即時影像",
+        "credit": "JOE廖昭豪",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/9EUztmQj81tMUaA98",
+        "source": "https://maps.app.goo.gl/9EUztmQj81tMUaA98",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8pyIj2orga32PwVDyuBGOtOimr4AsoYzr699U35ptvI_E7lWYdMHXXwqW8QsHkAnM8uzep1zPzkVrLTW2jeZ7OV3A1-F-st2J9aSA45LuYFzrKsHta78HyZUALZ8X67tLmp_GPLJt4VYU=s1024-v1",
+        "width": 1024,
+        "height": 576,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-08.jpg",
+        "caption": "四張犁郵局現場實拍照片；Google 地圖標示 2026年5月；非即時影像",
+        "credit": "JOE廖昭豪",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/zKx8n7KwWjNEYa9S6",
+        "source": "https://maps.app.goo.gl/zKx8n7KwWjNEYa9S6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_YIqSvdY9lb1S4Na_3vcvdPc1YFvtEwTzt3ZCwT_qWx-NlLrJIhr3hVKLunIYtrdgIC-ONUPf1wp-to39rfc6b7gebKLGeKlJKCnwbql_1EHxPczN7n2V6Ih-xdx7Ixj0qQ_gcyWKhdncc=s1024-v1",
+        "width": 576,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-09.jpg",
+        "caption": "四張犁郵局現場實拍照片；Google 地圖標示 2024年5月；非即時影像",
+        "credit": "Amy Yang",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/d7CXtSjeBV5n8YDaA",
+        "source": "https://maps.app.goo.gl/d7CXtSjeBV5n8YDaA",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9Vi1J5cSwYMNuACYC9Ot7yUUkuo1tLrR1-vgOt11vGL533zov7unS5Z-YuyrJCUQ1MowbpSvbUrqf0XAqZcrMBxR-PVG3OnchUrcW7lncMD1WRtCPc3u8XFfu6cYiFCKus8eg27A=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-10.jpg",
+        "caption": "四張犁郵局現場實拍照片；Google 地圖標示 2022年5月；非即時影像",
+        "credit": "SmartKK",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/bvn3nb8MtFcQSacD9",
+        "source": "https://maps.app.goo.gl/bvn3nb8MtFcQSacD9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9NTp1ORi2gB_-7WZAB-TcCmqDRr-Rs6mRN7xiu3HS8c_eqlxgHSjZD0klCBufVZotPzXklWcHQINLABGcrJzoxVPYD0LBREdFpXKEiVcidqpetlvPALesR5ASRt8RKvki4wCD5=s1024-v1",
+        "width": 577,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-11.jpg",
+        "caption": "四張犁郵局現場實拍照片；Google 地圖標示 2026年5月；非即時影像",
+        "credit": "JOE廖昭豪",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/QWxSH3DE14AyJB1i6",
+        "source": "https://maps.app.goo.gl/QWxSH3DE14AyJB1i6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-3YZ9j7pOpeIXVdRfvjf4MFu9nZy2JbKUr-6oOE78wAXIUaaEtkLk_ydVNg6Q9Avfw34AQliY4XY6npFlK_yu8ax8W_0WgB2fFWbujd51LSfFIky4mwOnnTZx_t4lzhAs99gwu0o77iZ1D=s1024-v1",
+        "width": 576,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/post-selected-v5-12.jpg",
+        "caption": "四張犁郵局現場實拍照片；Google 地圖標示 2024年5月；非即時影像",
+        "credit": "Amy Yang",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/fRxHytgWDVDUuK4t8",
+        "source": "https://maps.app.goo.gl/fRxHytgWDVDUuK4t8",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-b70xlMlNuwIQLsu7hF_RfsB_rDb_oMwgFWfQGV8Y2KuyvF-iRodb7S0lNpArHYrbzivqqbyidKmZj5ABG116Se_yV9TOcqxjeefLF92L9RGf3GvMPytd5e0f23qMWA-4HcovLBg=s1024-v1",
+        "width": 768,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      }
+    ],
+    "checkinImage": "assets/checkins/post-real-v5.svg",
+    "stampImage": "assets/stamps/post.svg",
+    "knowledge": [
+      {
+        "title": "郵務服務",
+        "text": "郵務是收寄、處理與遞送郵件的服務，信件和包裹都屬於郵件。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      },
+      {
+        "title": "郵遞區號",
+        "text": "郵遞區號能協助辨識投遞地區，讓郵件分類與投遞更有效率；收件姓名和地址仍要寫清楚。",
+        "source": "https://museum.post.gov.tw/post/Postal_Museum/museum/Child/teaching_inside_1.jsp"
+      },
+      {
+        "title": "郵局的兩種服務",
+        "text": "四張犁郵局也辦理存簿儲金及匯兌等儲匯服務，所以郵局不只可以寄信。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      },
+      {
+        "title": "認識自動櫃員機",
+        "text": "自動櫃員機是金融服務設備；四張犁郵局設有自動櫃員機等服務設施。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      }
+    ]
+  },
+  {
+    "id": "library",
+    "name": "臺中市立圖書館四張犁分館",
+    "short": "四張犁圖書館",
+    "icon": "📚",
+    "address": "臺中市北屯區豐樂路二段158號",
+    "lat": 24.1949181,
+    "lng": 120.6800574,
+    "official": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284",
+    "source": "https://www.library.taichung.gov.tw/lib/content/index?Parser=1,114,636",
+    "coordinateSource": "https://www.openstreetmap.org/way/332360111",
+    "coordinateNote": "OSM 館舍邊界頂點平均位置，與官方地址交叉核對；非大門精測座標。",
+    "color": "#6961a8",
+    "stamp": "閱讀高手章",
+    "tagline": "每一本書，都是一場旅行。",
+    "guide": "歡迎來到四張犁分館！這裡有適合不同年齡讀者的書，一樓也有兒童閱覽區。你喜歡動物、太空，還是冒險故事？和大人一起辦好借書證，就可以依借閱規定，把喜歡的書借回家。讀完要準時還書，書本也要好好愛護。館內適合安靜閱讀，我們要放輕腳步，讓大家都能享受故事。 現在觀察這張真實照片，找找二樓的國旗、一樓的玻璃入口、右邊紫色的活動海報。",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-13.jpg",
+        "caption": "四張犁圖書館指定尋寶照片；Google 地圖標示 2020年7月；非即時影像",
+        "credit": "Liang Sh (BEAR)",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/9Zptmx4EsDgDcWqf7",
+        "source": "https://maps.app.goo.gl/9Zptmx4EsDgDcWqf7",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-9_M8cqwVQs5eWBsu0gqKvqZSxZ181Jv_z7vBxAzoI6TC9J9nELnm_EhNFen43kH6hgS1Z9iSrlY3vqdsfsjG2_ArcMoId4RialF4-NjeeY25TgrekBket_jn9CC1MdH4h2VM=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-14.jpg",
+        "caption": "四張犁圖書館現場實拍照片；Google 地圖標示 2023年6月；非即時影像",
+        "credit": "jeri wu",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/Ljtpd3migcWCS8Rm6",
+        "source": "https://maps.app.goo.gl/Ljtpd3migcWCS8Rm6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9JqF33hUsiXC9V7lTbQNmok39cRrEXYSN1aSA8A2aCET3_YQKPwyk3YO3T_Pp4flWg_U8LYTnNQ8a1r1np1Qm3jfF91tNgJwbo9NTnNJdsdqMY480O7O_yeGo66ZY04rzXjRIUXg=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-15.jpg",
+        "caption": "四張犁圖書館現場實拍照片；Google 地圖標示 2022年3月；非即時影像",
+        "credit": "Pk Lin",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/rQA4UvfttAyKWdat5",
+        "source": "https://maps.app.goo.gl/rQA4UvfttAyKWdat5",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9JyjmGo8ia7RTVp82ZzbdMXqjEOTXQUHRmRM2j1Mt3i7OAdVrNRYYND8J62w5-Jko3BZryXpetDvP6YBouTErz3ELJS_hMfMBxGuwguJ-wGnILWyInzZ85zKPKaO7mJEWig-LYsA=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-16.jpg",
+        "caption": "四張犁圖書館現場實拍照片；Google 地圖標示 2017年12月；非即時影像",
+        "credit": "Liao草凡",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/uCSb2a1tc5SvNQ3m6",
+        "source": "https://maps.app.goo.gl/uCSb2a1tc5SvNQ3m6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_ETTCysRxnFGucxPIG6dj9pl1tV10HpaSq6TH3HNDDrnx0L99YzGpszi1wAkniVb6-oVVPwUlymORoUZ5jNdwox-Ka25iqaoH8JRmbxafJ3469I2vegQNuF4R6W7TAFy5JVgQ=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-17.jpg",
+        "caption": "四張犁圖書館現場實拍照片；Google 地圖標示 2023年1月；非即時影像",
+        "credit": "潘立傑",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/gbDxE6oG7VL1AWQc7",
+        "source": "https://maps.app.goo.gl/gbDxE6oG7VL1AWQc7",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-PjxdAnn_NYv6PEDQf31HeUSBQhwfY5xArq1i0B998tuaaIE86M0OhH4o4fupccPU5BZvjDUdhViI4PjvLslS7V9WyqfwCQfsq9o7LxDjFGZV2pqcdInIaK9vgmFrfGDVv2dj4=s1024-v1",
+        "width": 771,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/library-selected-v5-18.jpg",
+        "caption": "四張犁圖書館現場實拍照片；Google 地圖標示 2023年11月；非即時影像",
+        "credit": "JOE廖昭豪",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/FXMWMQRiCmtHVf1RA",
+        "source": "https://maps.app.goo.gl/FXMWMQRiCmtHVf1RA",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U81vwLh44jf2DaPkIerNhGhTwipKd89_HaVaMlUMDBgO5sjSaudQS8vHrb9Gpvv2SuTA2Xbf_Pzhg76xtuAE5J9mKwf8RYDJj2yZtfHHCb3Gl1vfjR1bqbUhSV6HpP89Cy9rRNv=s2048-v1",
+        "width": 2048,
+        "height": 1152,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      }
+    ],
+    "checkinImage": "assets/checkins/library-real-v5.svg",
+    "stampImage": "assets/stamps/library.svg",
+    "knowledge": [
+      {
+        "title": "特色館藏",
+        "text": "四張犁分館鄰近洲際棒球場園區，特色館藏收集棒球相關書籍與雜誌。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "一樓閱覽空間",
+        "text": "四張犁分館一樓規劃兒童閱覽區與樂齡區，服務不同年齡的讀者。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "智慧樹書牆",
+        "text": "四張犁分館設有挑高的「智慧樹」書牆，是館內具有特色的閱讀空間設計。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "分齡閱讀",
+        "text": "四張犁分館三樓規劃青少年閱覽區；分齡設計能回應不同年齡讀者的需要。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      }
+    ]
+  },
+  {
+    "id": "health",
+    "name": "臺中市北屯區四民衛生所",
+    "short": "四民衛生所",
+    "icon": "🏥",
+    "address": "臺中市北屯區后庄路1062號",
+    "lat": 24.192751,
+    "lng": 120.6806546,
+    "official": "https://www.suminphc.taichung.gov.tw/",
+    "source": "https://www.taichung.gov.tw/1017411/post",
+    "coordinateSource": "https://www.suminphc.taichung.gov.tw/1042061/post",
+    "coordinateNote": "衛生所官方交通地圖指定座標。",
+    "color": "#398789",
+    "stamp": "健康小達人章",
+    "tagline": "健康的秘密，就在生活裡。",
+    "guide": "四民衛生所是社區裡照顧健康的好鄰居。工作人員會提供健康資訊、預防保健和疫苗接種等服務。想了解服務時間及需要準備的資料，可以請大人先洽詢衛生所。保持洗手、規律運動及均衡飲食，也是在日常生活中照顧自己的方法。 現在觀察這張真實照片，找找金色的四民衛生所招牌、入口的玻璃門、右邊的銀色扶手。",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/health-selected-v5-19.jpg",
+        "caption": "四民衛生所指定尋寶照片；Google 地圖標示 2021年11月；非即時影像",
+        "credit": "JOE廖昭豪",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/fGaKpceQuMffpkv8A",
+        "source": "https://maps.app.goo.gl/fGaKpceQuMffpkv8A",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_VIURN62YmB1gH8_IK_69jbihHXuMuDDAykILHMiSt9HCQ9L5X_DQ4olNFaqCv-lcYYEhf3UNXdkMsV2REIGDx2qpaF2UqWG14Jh8mBaNXZ9GGyLree2FMPDRgcIR9CI4n7KNo=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/health-selected-v5-20.jpg",
+        "caption": "四民衛生所現場實拍照片；Google 地圖標示 2025年6月；非即時影像",
+        "credit": "Amy Yang",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/T35jU5SAVfAcdZVj6",
+        "source": "https://maps.app.goo.gl/T35jU5SAVfAcdZVj6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-Czx2XKXS3GLCbwGaEjxbPiUwuO_7uMc1HQbnS22alAk56zgKYCHkyRHdRtWbtsh6djwaBMnslpomvil1PYgzQUuGjcIHMzGJag6SxJ1FrvmXscpKRVdlMCkvGOPOntoso_fkxrMI2I6-l=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/health-selected-v5-21.jpg",
+        "caption": "四民衛生所現場實拍照片；Google 地圖標示 2025年6月；非即時影像",
+        "credit": "Amy Yang",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/r6viiJaKkmeF7AJW6",
+        "source": "https://maps.app.goo.gl/r6viiJaKkmeF7AJW6",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8xzhmRB45ig956mmekgk8s-xcHQSm7D0sKkF1Ho5SFVJ0aaOV0lSBCThJ1tMmsUsaO4SHvVAjcl1rZ2kutikX80O07LFvTVGHS3MmacVBVygQ3t10Ifjr5MHIOe8rpHUQScWEbevZEBEcW=s1024-v1",
+        "width": 768,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      }
+    ],
+    "checkinImage": "assets/checkins/health-real-v5.svg",
+    "stampImage": "assets/stamps/health.svg",
+    "knowledge": [
+      {
+        "title": "預防接種",
+        "text": "四民衛生所提供常規預防接種服務，服務時間與資格可由大人向衛生所確認。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "兒童健康篩檢",
+        "text": "四民衛生所的服務包括幼兒園兒童視力、聽力及口腔保健篩檢。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "傳染病防治",
+        "text": "病媒蚊調查是衛生所傳染病防治工作的一部分，目的是掌握與防範疾病傳播風險。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "衛生教育",
+        "text": "衛生教育宣導把健康與疾病預防知識帶進社區，是衛生所的服務之一。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      }
+    ]
+  },
+  {
+    "id": "fire",
+    "name": "臺中市政府消防局四平分隊",
+    "short": "四平消防分隊",
+    "icon": "🚒",
+    "address": "臺中市北屯區后庄路909號",
+    "lat": 24.19265086,
+    "lng": 120.68197936,
+    "official": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=7,3,101,21,,,,,,,1",
+    "coordinateSource": "https://www.openstreetmap.org/way/320064950",
+    "coordinateNote": "OSM 分隊建物邊界頂點平均位置，與消防局地址交叉核對；非車庫入口精測座標。",
+    "color": "#ba533e",
+    "stamp": "消防小勇士章",
+    "tagline": "認識勇敢，也學會保護自己。",
+    "guide": "四平消防分隊是社區裡協助消防與緊急救護的好鄰居。消防車能運送救災裝備，救護車能協助需要緊急醫療照護的人。平時看到出勤車輛，要請大人一起注意安全並讓出通道。真的遇到火災或緊急救護需要，請大人協助撥打 119，清楚說明發生什麼事和所在位置。 現在觀察這張真實照片，找找左邊紅色的消防車、右邊白色的救護車、屋頂上的國旗。",
+    "source": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=7,3,101,21,,,,,,,1",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/fire-selected-v5-22.jpg",
+        "caption": "四平消防分隊指定尋寶照片；Google 地圖標示 2022年2月；非即時影像",
+        "credit": "賴打",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/6zrEXTLj6e6JykHE7",
+        "source": "https://maps.app.goo.gl/6zrEXTLj6e6JykHE7",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9GhouqcLDZnJhf9QOJvCz7DcIxnTYexlPE60dXi0T_M2N95o6qoOzKyDsPqkTtB94VPiZNacmAx-eQTX0Yy3UGBNSo7MILzZ_-z2F5dJy-SSzmKv5DiWXqumzJ9NbAQfupnZCxhg=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/fire-selected-v5-23.png",
+        "caption": "四平消防分隊指定街景畫面（保留 Google 原始署名）；Google 地圖標示 2024年5月；非即時影像",
+        "credit": "Google 街景服務",
+        "license": "Google 街景畫面 © Google",
+        "licenseURL": "https://maps.app.goo.gl/yEzX3u2aoRsHzNjG7",
+        "source": "https://maps.app.goo.gl/yEzX3u2aoRsHzNjG7",
+        "originalURL": "https://streetviewpixels-pa.clients6.google.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=0&panoid=DJlqJXkf-sALFiR0WRxLYQ&yaw=11.4",
+        "width": 1536,
+        "height": 639,
+        "changes": "保留完整街景畫面及 Google 原始署名，未變更景物。",
+        "mediaType": "streetview-capture"
+      }
+    ],
+    "checkinImage": "assets/checkins/fire-real-v5.svg",
+    "stampImage": "assets/stamps/fire.svg",
+    "knowledge": [
+      {
+        "title": "分隊與大隊",
+        "text": "消防局組織資料列出，四平分隊隸屬第八救災救護大隊，和北屯、文昌等分隊同屬一個大隊。",
+        "source": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=1,3,19,,,,3"
+      },
+      {
+        "title": "消防車的任務",
+        "text": "消防車運送消防人員和救災裝備，支援火災搶救及其他災害救援。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      },
+      {
+        "title": "救護車的任務",
+        "text": "救護車執行緊急救護，協助需要緊急醫療照護的傷病患並送往醫院。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      },
+      {
+        "title": "消防救護電話",
+        "text": "119 受理消防、災害救援與緊急救護需求；報案時要說明地點和發生的事情。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      }
+    ]
+  },
+  {
+    "id": "police",
+    "name": "臺中市政府警察局第五分局四平派出所",
+    "short": "四平派出所",
+    "icon": "👮",
+    "address": "臺中市北屯區崇德路三段2號",
+    "lat": 24.1820373,
+    "lng": 120.6864205,
+    "official": "https://www.beitun.taichung.gov.tw/831946/832310/832555/832567/939715",
+    "coordinateSource": "https://www.openstreetmap.org/node/2775153222",
+    "coordinateNote": "OSM 派出所地物節點，與區公所通訊錄交叉核對。",
+    "color": "#426f9b",
+    "stamp": "安全守護章",
+    "tagline": "社區裡，安心的好鄰居。",
+    "guide": "警察叔叔、阿姨每天守護社區安全。他們會協助交通、尋找走失的人，也會處理危險的事情。這裡是四平派出所。如果和大人走散，先在安全的地方停下來，請穿制服的警察或服務人員協助，不要隨便跟陌生人離開。遇到需要警察處理的緊急危險，可以撥打一一零。平常不可以亂打求救電話。 現在觀察這張真實照片，找找紅色的 POLICE 字樣、大大的白色 V 字造型、前方黑白色的警車。",
+    "source": "https://www.beitun.taichung.gov.tw/831946/832310/832555/832567/939715",
+    "verifiedOn": "2026-11-04",
+    "panorama": {
+      "status": "unverified",
+      "note": "尚未逐站確認街景覆蓋。將開啟 Google 地圖，請選街景小人查看附近道路；可能沒有街景。"
+    },
+    "photos": [
+      {
+        "kind": "photo",
+        "src": "assets/images/police-selected-v5-24.jpg",
+        "caption": "四平派出所指定尋寶照片；Google 地圖標示 2017年1月；非即時影像",
+        "credit": "陳志榮Raymond",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/qw9UJ1846jyyDqXM7",
+        "source": "https://maps.app.goo.gl/qw9UJ1846jyyDqXM7",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8tpzgSwIcVBda33Oph15uyD_xhGv-DN4hbji2duVmcARjSrMcc-WDIIYptAoRH3sRk8jPDokWLGV-V0Zuslbf_8tTtFal-FCRBYetOx7QWC0cD4vAnK841pZx0lGhPoRqxtITkbg=s1024-v1",
+        "width": 768,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/police-selected-v5-25.jpg",
+        "caption": "四平派出所現場實拍照片；Google 地圖標示 2022年12月；非即時影像",
+        "credit": "曹偉琮",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/Z7GCeooDomAf6QHU8",
+        "source": "https://maps.app.goo.gl/Z7GCeooDomAf6QHU8",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-QvsFdzZT-8Xc0TGKkIHmBrS608wvYV6_yyKNngcsir3iN7eq4NRcCebhF9x71jSQF7JNpjSw1M9C4VWKVRZ1drETqjRNcAS0N7vuIrqzUiw5YHYrougtI6S1Q2n6sZVlYkrnQ=s1024-v1",
+        "width": 1024,
+        "height": 1024,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/police-selected-v5-26.jpg",
+        "caption": "四平派出所現場實拍照片；Google 地圖標示 2017年1月；非即時影像",
+        "credit": "石崇",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/QuSixX2VPeGrrrXt8",
+        "source": "https://maps.app.goo.gl/QuSixX2VPeGrrrXt8",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9HYVwF41TojzatQsbXOLmtDyiBggChJDrEsqEGoM5VuO2kK57b0bCRzRLpmVRzxoKCaQ96Mw5WitF5tk8KdUK941rgLkB2T8hkQ5peV2WpuqbOpphf3Qv-bxoSI3f3okfiQnRb0w=s1024-v1",
+        "width": 1024,
+        "height": 576,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      },
+      {
+        "kind": "photo",
+        "src": "assets/images/police-selected-v5-27.jpg",
+        "caption": "四平派出所現場實拍照片；Google 地圖標示 2017年10月；非即時影像",
+        "credit": "武界山",
+        "license": "照片著作權屬原作者（Google 地圖來源）",
+        "licenseURL": "https://maps.app.goo.gl/eJhcGAa7sSyZcgXN9",
+        "source": "https://maps.app.goo.gl/eJhcGAa7sSyZcgXN9",
+        "originalURL": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_TMJ3m0jkEKvkGVsgWJ1KTh-hwhNx-EIxoBCJdcQz6nUw-ruDZx4j-yBEBu_OAeddXFwO1ErpEOlcAyvY_ECdFoEocJXlNX6b5e7N63Vz20Qc3rYRuDImHEdSPVY4EvXBpINj_Sw=s1024-v1",
+        "width": 1024,
+        "height": 768,
+        "changes": "原照片直接保存，未生成、合成或修改景物。",
+        "mediaType": "photograph"
+      }
+    ],
+    "checkinImage": "assets/checkins/police-real-v5.svg",
+    "stampImage": "assets/stamps/police.svg",
+    "knowledge": [
+      {
+        "title": "派出所與分局",
+        "text": "這座館舍結合臺中市政府警察局第五分局與四平派出所，提供治安與為民服務。",
+        "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+      },
+      {
+        "title": "建築上的英文",
+        "text": "POLICE 是「警察」的英文，建築上的字樣能幫助人們辨認警察機關。",
+        "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+      },
+      {
+        "title": "警察報案電話",
+        "text": "110 是警察報案電話；119 用於消防與緊急救護，165 提供反詐騙諮詢。",
+        "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+      },
+      {
+        "title": "反詐騙服務",
+        "text": "165 是反詐騙諮詢專線，可由大人協助查證可疑訊息；不要只相信訊息裡自稱的身分。",
+        "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+      }
+    ]
+  }
+]

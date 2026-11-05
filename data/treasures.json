@@ -1,0 +1,296 @@
+{
+  "temple": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "temple",
+    "imageId": "temple-real-photo-v5",
+    "image": "assets/images/temple-selected-v5-00.jpg",
+    "width": 1024,
+    "height": 768,
+    "label": "文昌廟指定尋寶照片；Google 地圖標示 2022年10月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "Paul Chien",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/fSb9Zzbz3JqXFwwT9",
+    "source": "https://maps.app.goo.gl/fSb9Zzbz3JqXFwwT9",
+    "targets": [
+      {
+        "id": "temple-real-photo-v5-target-1",
+        "locationId": "temple",
+        "imageId": "temple-real-photo-v5",
+        "name": "燕尾造型的屋脊",
+        "x": 0.497,
+        "y": 0.36,
+        "rx": 0.19,
+        "ry": 0.07,
+        "feedback": "你找到燕尾造型的屋脊了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "temple-real-photo-v5-target-2",
+        "locationId": "temple",
+        "imageId": "temple-real-photo-v5",
+        "name": "中間門內的小香爐",
+        "x": 0.525,
+        "y": 0.793,
+        "rx": 0.027,
+        "ry": 0.051,
+        "feedback": "你找到中間門內的小香爐了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "temple-real-photo-v5-target-3",
+        "locationId": "temple",
+        "imageId": "temple-real-photo-v5",
+        "name": "中央門右邊的石雕",
+        "x": 0.625,
+        "y": 0.805,
+        "rx": 0.037,
+        "ry": 0.073,
+        "feedback": "你找到中央門右邊的石雕了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  },
+  "post": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "post",
+    "imageId": "post-real-photo-v5",
+    "image": "assets/images/post-selected-v5-07.jpg",
+    "width": 1024,
+    "height": 576,
+    "label": "四張犁郵局指定尋寶照片；Google 地圖標示 2026年5月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "JOE廖昭豪",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/9EUztmQj81tMUaA98",
+    "source": "https://maps.app.goo.gl/9EUztmQj81tMUaA98",
+    "targets": [
+      {
+        "id": "post-real-photo-v5-target-1",
+        "locationId": "post",
+        "imageId": "post-real-photo-v5",
+        "name": "上方綠色的大招牌",
+        "x": 0.53,
+        "y": 0.285,
+        "rx": 0.16,
+        "ry": 0.08,
+        "feedback": "你找到上方綠色的大招牌了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "post-real-photo-v5-target-2",
+        "locationId": "post",
+        "imageId": "post-real-photo-v5",
+        "name": "郵局的入口",
+        "x": 0.46,
+        "y": 0.713,
+        "rx": 0.046,
+        "ry": 0.115,
+        "feedback": "你找到郵局的入口了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "post-real-photo-v5-target-3",
+        "locationId": "post",
+        "imageId": "post-real-photo-v5",
+        "name": "右邊的花圃",
+        "x": 0.77,
+        "y": 0.745,
+        "rx": 0.15,
+        "ry": 0.1,
+        "feedback": "你找到右邊的花圃了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  },
+  "library": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "library",
+    "imageId": "library-real-photo-v5",
+    "image": "assets/images/library-selected-v5-13.jpg",
+    "width": 1024,
+    "height": 768,
+    "label": "四張犁圖書館指定尋寶照片；Google 地圖標示 2020年7月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "Liang Sh (BEAR)",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/9Zptmx4EsDgDcWqf7",
+    "source": "https://maps.app.goo.gl/9Zptmx4EsDgDcWqf7",
+    "targets": [
+      {
+        "id": "library-real-photo-v5-target-1",
+        "locationId": "library",
+        "imageId": "library-real-photo-v5",
+        "name": "二樓的國旗",
+        "x": 0.542,
+        "y": 0.446,
+        "rx": 0.023,
+        "ry": 0.044,
+        "feedback": "你找到二樓的國旗了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "library-real-photo-v5-target-2",
+        "locationId": "library",
+        "imageId": "library-real-photo-v5",
+        "name": "一樓的玻璃入口",
+        "x": 0.54,
+        "y": 0.742,
+        "rx": 0.062,
+        "ry": 0.065,
+        "feedback": "你找到一樓的玻璃入口了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "library-real-photo-v5-target-3",
+        "locationId": "library",
+        "imageId": "library-real-photo-v5",
+        "name": "右邊紫色的活動海報",
+        "x": 0.722,
+        "y": 0.703,
+        "rx": 0.041,
+        "ry": 0.043,
+        "feedback": "你找到右邊紫色的活動海報了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  },
+  "health": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "health",
+    "imageId": "health-real-photo-v5",
+    "image": "assets/images/health-selected-v5-19.jpg",
+    "width": 1024,
+    "height": 768,
+    "label": "四民衛生所指定尋寶照片；Google 地圖標示 2021年11月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "JOE廖昭豪",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/fGaKpceQuMffpkv8A",
+    "source": "https://maps.app.goo.gl/fGaKpceQuMffpkv8A",
+    "targets": [
+      {
+        "id": "health-real-photo-v5-target-1",
+        "locationId": "health",
+        "imageId": "health-real-photo-v5",
+        "name": "金色的四民衛生所招牌",
+        "x": 0.484,
+        "y": 0.281,
+        "rx": 0.299,
+        "ry": 0.048,
+        "feedback": "你找到金色的四民衛生所招牌了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "health-real-photo-v5-target-2",
+        "locationId": "health",
+        "imageId": "health-real-photo-v5",
+        "name": "入口的玻璃門",
+        "x": 0.5,
+        "y": 0.744,
+        "rx": 0.158,
+        "ry": 0.122,
+        "feedback": "你找到入口的玻璃門了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "health-real-photo-v5-target-3",
+        "locationId": "health",
+        "imageId": "health-real-photo-v5",
+        "name": "右邊的銀色扶手",
+        "x": 0.941,
+        "y": 0.877,
+        "rx": 0.049,
+        "ry": 0.089,
+        "feedback": "你找到右邊的銀色扶手了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  },
+  "fire": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "fire",
+    "imageId": "fire-real-photo-v5",
+    "image": "assets/images/fire-selected-v5-22.jpg",
+    "width": 1024,
+    "height": 768,
+    "label": "四平消防分隊指定尋寶照片；Google 地圖標示 2022年2月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "賴打",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/6zrEXTLj6e6JykHE7",
+    "source": "https://maps.app.goo.gl/6zrEXTLj6e6JykHE7",
+    "targets": [
+      {
+        "id": "fire-real-photo-v5-target-1",
+        "locationId": "fire",
+        "imageId": "fire-real-photo-v5",
+        "name": "左邊紅色的消防車",
+        "x": 0.209,
+        "y": 0.79,
+        "rx": 0.084,
+        "ry": 0.076,
+        "feedback": "你找到左邊紅色的消防車了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "fire-real-photo-v5-target-2",
+        "locationId": "fire",
+        "imageId": "fire-real-photo-v5",
+        "name": "右邊白色的救護車",
+        "x": 0.611,
+        "y": 0.787,
+        "rx": 0.094,
+        "ry": 0.074,
+        "feedback": "你找到右邊白色的救護車了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "fire-real-photo-v5-target-3",
+        "locationId": "fire",
+        "imageId": "fire-real-photo-v5",
+        "name": "屋頂上的國旗",
+        "x": 0.519,
+        "y": 0.077,
+        "rx": 0.017,
+        "ry": 0.041,
+        "feedback": "你找到屋頂上的國旗了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  },
+  "police": {
+    "status": "ready",
+    "kind": "photo",
+    "locationId": "police",
+    "imageId": "police-real-photo-v5",
+    "image": "assets/images/police-selected-v5-24.jpg",
+    "width": 768,
+    "height": 1024,
+    "label": "四平派出所指定尋寶照片；Google 地圖標示 2017年1月；非即時影像。請在這張原圖中找出三個實際物件。",
+    "credit": "陳志榮Raymond",
+    "license": "照片著作權屬原作者（Google 地圖來源）",
+    "licenseURL": "https://maps.app.goo.gl/qw9UJ1846jyyDqXM7",
+    "source": "https://maps.app.goo.gl/qw9UJ1846jyyDqXM7",
+    "targets": [
+      {
+        "id": "police-real-photo-v5-target-1",
+        "locationId": "police",
+        "imageId": "police-real-photo-v5",
+        "name": "紅色的 POLICE 字樣",
+        "x": 0.52,
+        "y": 0.474,
+        "rx": 0.032,
+        "ry": 0.118,
+        "feedback": "你找到紅色的 POLICE 字樣了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "police-real-photo-v5-target-2",
+        "locationId": "police",
+        "imageId": "police-real-photo-v5",
+        "name": "大大的白色 V 字造型",
+        "x": 0.366,
+        "y": 0.45,
+        "rx": 0.064,
+        "ry": 0.152,
+        "feedback": "你找到大大的白色 V 字造型了！仔細觀察就能發現社區的小細節。"
+      },
+      {
+        "id": "police-real-photo-v5-target-3",
+        "locationId": "police",
+        "imageId": "police-real-photo-v5",
+        "name": "前方黑白色的警車",
+        "x": 0.512,
+        "y": 0.697,
+        "rx": 0.112,
+        "ry": 0.033,
+        "feedback": "你找到前方黑白色的警車了！仔細觀察就能發現社區的小細節。"
+      }
+    ]
+  }
+}

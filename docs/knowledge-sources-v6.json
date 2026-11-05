@@ -1,0 +1,149 @@
+{
+  "scope": "六站各四題景點知識，國小短句三選一；延續現有互動闖關。",
+  "verifiedAt": "2026-11-04",
+  "sources": {
+    "temple": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68",
+    "post": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5",
+    "sorting": "https://museum.post.gov.tw/post/Postal_Museum/museum/Child/teaching_inside_1.jsp",
+    "library": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284",
+    "health": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520",
+    "fire": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=1,3,19,,,,3",
+    "119": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143",
+    "police": "https://www.taichung.gov.tw/8868/8872/9962/900767",
+    "165": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+  },
+  "knowledge": {
+    "temple": [
+      {
+        "title": "主祀神明",
+        "text": "臺中文昌廟以文昌帝君為主神，與地方重視讀書、教育的文化有關。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "社學與教育",
+        "text": "文昌廟曾開辦社學，提供地方居民讀書、識字的機會，兼有教育功能。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "文化資產",
+        "text": "臺中文昌廟是直轄市定古蹟，保存具有歷史、文化與藝術價值的寺廟建築。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      },
+      {
+        "title": "建廟歷史",
+        "text": "文昌廟現址於清同治年間興建，1871 年竣工，屬於清領時期的建築。",
+        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+      }
+    ],
+    "post": [
+      {
+        "title": "郵務服務",
+        "text": "郵務是收寄、處理與遞送郵件的服務，信件和包裹都屬於郵件。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      },
+      {
+        "title": "郵遞區號",
+        "text": "郵遞區號能協助辨識投遞地區，讓郵件分類與投遞更有效率；收件姓名和地址仍要寫清楚。",
+        "source": "https://museum.post.gov.tw/post/Postal_Museum/museum/Child/teaching_inside_1.jsp"
+      },
+      {
+        "title": "郵局的兩種服務",
+        "text": "四張犁郵局也辦理存簿儲金及匯兌等儲匯服務，所以郵局不只可以寄信。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      },
+      {
+        "title": "認識自動櫃員機",
+        "text": "自動櫃員機是金融服務設備；四張犁郵局設有自動櫃員機等服務設施。",
+        "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+      }
+    ],
+    "library": [
+      {
+        "title": "特色館藏",
+        "text": "四張犁分館鄰近洲際棒球場園區，特色館藏收集棒球相關書籍與雜誌。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "一樓閱覽空間",
+        "text": "四張犁分館一樓規劃兒童閱覽區與樂齡區，服務不同年齡的讀者。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "智慧樹書牆",
+        "text": "四張犁分館設有挑高的「智慧樹」書牆，是館內具有特色的閱讀空間設計。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      },
+      {
+        "title": "分齡閱讀",
+        "text": "四張犁分館三樓規劃青少年閱覽區；分齡設計能回應不同年齡讀者的需要。",
+        "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+      }
+    ],
+    "health": [
+      {
+        "title": "預防接種",
+        "text": "四民衛生所提供常規預防接種服務，服務時間與資格可由大人向衛生所確認。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "兒童健康篩檢",
+        "text": "四民衛生所的服務包括幼兒園兒童視力、聽力及口腔保健篩檢。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "傳染病防治",
+        "text": "病媒蚊調查是衛生所傳染病防治工作的一部分，目的是掌握與防範疾病傳播風險。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      },
+      {
+        "title": "衛生教育",
+        "text": "衛生教育宣導把健康與疾病預防知識帶進社區，是衛生所的服務之一。",
+        "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+      }
+    ],
+    "fire": [
+      {
+        "title": "分隊與大隊",
+        "text": "消防局組織資料列出，四平分隊隸屬第八救災救護大隊，和北屯、文昌等分隊同屬一個大隊。",
+        "source": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=1,3,19,,,,3"
+      },
+      {
+        "title": "消防車的任務",
+        "text": "消防車運送消防人員和救災裝備，支援火災搶救及其他災害救援。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      },
+      {
+        "title": "救護車的任務",
+        "text": "救護車執行緊急救護，協助需要緊急醫療照護的傷病患並送往醫院。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      },
+      {
+        "title": "消防救護電話",
+        "text": "119 受理消防、災害救援與緊急救護需求；報案時要說明地點和發生的事情。",
+        "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+      }
+    ],
+    "police": [
+      {
+        "title": "派出所與分局",
+        "text": "這座館舍結合臺中市政府警察局第五分局與四平派出所，提供治安與為民服務。",
+        "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+      },
+      {
+        "title": "建築上的英文",
+        "text": "POLICE 是「警察」的英文，建築上的字樣能幫助人們辨認警察機關。",
+        "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+      },
+      {
+        "title": "警察報案電話",
+        "text": "110 是警察報案電話；119 用於消防與緊急救護，165 提供反詐騙諮詢。",
+        "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+      },
+      {
+        "title": "反詐騙服務",
+        "text": "165 是反詐騙諮詢專線，可由大人協助查證可疑訊息；不要只相信訊息裡自稱的身分。",
+        "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+      }
+    ]
+  }
+}

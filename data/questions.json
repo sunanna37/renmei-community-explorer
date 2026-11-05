@@ -1,0 +1,350 @@
+{
+  "temple": [
+    {
+      "id": "temple-knowledge-v6-1",
+      "topic": "主祀神明",
+      "question": "臺中文昌廟主要奉祀哪一位神明？",
+      "options": [
+        "媽祖",
+        "文昌帝君",
+        "關聖帝君"
+      ],
+      "answer": 1,
+      "explanation": "臺中文昌廟以文昌帝君為主神，與地方重視讀書、教育的文化有關。",
+      "hint": "想想「文昌廟」名字裡的「文昌」。",
+      "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+    },
+    {
+      "id": "temple-knowledge-v6-2",
+      "topic": "社學與教育",
+      "question": "早期文昌廟開辦「社學」，主要讓地方居民學習什麼？",
+      "options": [
+        "識字與讀書",
+        "駕駛消防車",
+        "分類郵件"
+      ],
+      "answer": 0,
+      "explanation": "文昌廟曾開辦社學，提供地方居民讀書、識字的機會，兼有教育功能。",
+      "hint": "社學的「學」，和早期的讀書教育有關。",
+      "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+    },
+    {
+      "id": "temple-knowledge-v6-3",
+      "topic": "文化資產",
+      "question": "臺中文昌廟現在屬於哪一種文化資產？",
+      "options": [
+        "現代美術館",
+        "國家公園",
+        "直轄市定古蹟"
+      ],
+      "answer": 2,
+      "explanation": "臺中文昌廟是直轄市定古蹟，保存具有歷史、文化與藝術價值的寺廟建築。",
+      "hint": "這座老廟的重要價值，在於保存地方歷史與建築。",
+      "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+    },
+    {
+      "id": "temple-knowledge-v6-4",
+      "topic": "建廟歷史",
+      "question": "臺中文昌廟現址建築於 1871 年竣工，當時是哪個時期？",
+      "options": [
+        "清領時期",
+        "日治時期",
+        "戰後時期"
+      ],
+      "answer": 0,
+      "explanation": "文昌廟現址於清同治年間興建，1871 年竣工，屬於清領時期的建築。",
+      "hint": "同治是清朝皇帝的年號。",
+      "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+    }
+  ],
+  "post": [
+    {
+      "id": "post-knowledge-v6-1",
+      "topic": "郵務服務",
+      "question": "四張犁郵局的「郵務」主要提供哪一種服務？",
+      "options": [
+        "借閱圖書與雜誌",
+        "接種疫苗與篩檢",
+        "收寄信件與包裹"
+      ],
+      "answer": 2,
+      "explanation": "郵務是收寄、處理與遞送郵件的服務，信件和包裹都屬於郵件。",
+      "hint": "想一想「郵件」包括哪些東西。",
+      "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+    },
+    {
+      "id": "post-knowledge-v6-2",
+      "topic": "郵遞區號",
+      "question": "在四張犁郵局寄信時，寫郵遞區號有什麼幫助？",
+      "options": [
+        "決定信封的顏色",
+        "協助分類與投遞郵件",
+        "代替收件人的姓名"
+      ],
+      "answer": 1,
+      "explanation": "郵遞區號能協助辨識投遞地區，讓郵件分類與投遞更有效率；收件姓名和地址仍要寫清楚。",
+      "hint": "郵政博物館的分信遊戲，就是依郵遞區號分類。",
+      "source": "https://museum.post.gov.tw/post/Postal_Museum/museum/Child/teaching_inside_1.jsp"
+    },
+    {
+      "id": "post-knowledge-v6-3",
+      "topic": "郵局的兩種服務",
+      "question": "四張犁郵局除了郵務，還有哪一類服務？",
+      "options": [
+        "儲金與匯兌服務",
+        "急診與住院服務",
+        "圖書與雜誌借閱"
+      ],
+      "answer": 0,
+      "explanation": "四張犁郵局也辦理存簿儲金及匯兌等儲匯服務，所以郵局不只可以寄信。",
+      "hint": "照片中的自動櫃員機，與存款、提款服務有關。",
+      "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+    },
+    {
+      "id": "post-knowledge-v6-4",
+      "topic": "認識自動櫃員機",
+      "question": "圖庫中綠色的自動櫃員機，主要是哪一類設備？",
+      "options": [
+        "郵件分類設備",
+        "金融服務設備",
+        "書籍借還設備"
+      ],
+      "answer": 1,
+      "explanation": "自動櫃員機是金融服務設備；四張犁郵局設有自動櫃員機等服務設施。",
+      "hint": "想想大人會在自動櫃員機辦理什麼事情。",
+      "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
+    }
+  ],
+  "library": [
+    {
+      "id": "library-knowledge-v6-1",
+      "topic": "特色館藏",
+      "question": "四張犁圖書館的特色館藏以哪一種運動為主題？",
+      "options": [
+        "游泳",
+        "棒球",
+        "滑雪"
+      ],
+      "answer": 1,
+      "explanation": "四張犁分館鄰近洲際棒球場園區，特色館藏收集棒球相關書籍與雜誌。",
+      "hint": "想一想附近的洲際棒球場。",
+      "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+    },
+    {
+      "id": "library-knowledge-v6-2",
+      "topic": "一樓閱覽空間",
+      "question": "小朋友想找兒童讀物，可先到四張犁圖書館哪個區域？",
+      "options": [
+        "四樓行政區",
+        "三樓青少年閱覽區",
+        "一樓兒童閱覽區"
+      ],
+      "answer": 2,
+      "explanation": "四張犁分館一樓規劃兒童閱覽區與樂齡區，服務不同年齡的讀者。",
+      "hint": "知識小卡提到，兒童閱覽區和樂齡區在同一層。",
+      "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+    },
+    {
+      "id": "library-knowledge-v6-3",
+      "topic": "智慧樹書牆",
+      "question": "圖庫裡挑高、像大樹一樣的書牆，有什麼名稱？",
+      "options": [
+        "智慧樹書牆",
+        "郵件分信牆",
+        "消防裝備牆"
+      ],
+      "answer": 0,
+      "explanation": "四張犁分館設有挑高的「智慧樹」書牆，是館內具有特色的閱讀空間設計。",
+      "hint": "這座書牆以「樹」的意象來命名。",
+      "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+    },
+    {
+      "id": "library-knowledge-v6-4",
+      "topic": "分齡閱讀",
+      "question": "四張犁圖書館三樓主要規劃給哪一類讀者？",
+      "options": [
+        "幼兒與學齡前兒童",
+        "青少年讀者",
+        "辦理行政業務的員工"
+      ],
+      "answer": 1,
+      "explanation": "四張犁分館三樓規劃青少年閱覽區；分齡設計能回應不同年齡讀者的需要。",
+      "hint": "一樓有兒童閱覽區，四樓是行政區。",
+      "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
+    }
+  ],
+  "health": [
+    {
+      "id": "health-knowledge-v6-1",
+      "topic": "預防接種",
+      "question": "四民衛生所提供的哪一項服務與疫苗有關？",
+      "options": [
+        "預防接種",
+        "圖書借閱",
+        "郵件收寄"
+      ],
+      "answer": 0,
+      "explanation": "四民衛生所提供常規預防接種服務，服務時間與資格可由大人向衛生所確認。",
+      "hint": "疫苗接種是衛生所的預防保健服務之一。",
+      "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+    },
+    {
+      "id": "health-knowledge-v6-2",
+      "topic": "兒童健康篩檢",
+      "question": "四民衛生所為幼兒園兒童辦理的篩檢，包括哪一組項目？",
+      "options": [
+        "身高、書包重量與鞋號",
+        "跑步速度、跳遠與投球",
+        "視力、聽力與口腔保健"
+      ],
+      "answer": 2,
+      "explanation": "四民衛生所的服務包括幼兒園兒童視力、聽力及口腔保健篩檢。",
+      "hint": "眼睛、耳朵和牙齒，都與兒童健康有關。",
+      "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+    },
+    {
+      "id": "health-knowledge-v6-3",
+      "topic": "傳染病防治",
+      "question": "四民衛生所調查病媒蚊，是在協助哪一項工作？",
+      "options": [
+        "郵件投遞",
+        "傳染病防治",
+        "圖書分類"
+      ],
+      "answer": 1,
+      "explanation": "病媒蚊調查是衛生所傳染病防治工作的一部分，目的是掌握與防範疾病傳播風險。",
+      "hint": "有些蚊子可能傳播疾病，因此需要調查。",
+      "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+    },
+    {
+      "id": "health-knowledge-v6-4",
+      "topic": "衛生教育",
+      "question": "四民衛生所的「衛生教育宣導」，主要在幫助居民學習什麼？",
+      "options": [
+        "保持健康與預防疾病的知識",
+        "郵遞區號的分類方式",
+        "古蹟建築的修復方法"
+      ],
+      "answer": 0,
+      "explanation": "衛生教育宣導把健康與疾病預防知識帶進社區，是衛生所的服務之一。",
+      "hint": "衛生教育關心的是居民的健康。",
+      "source": "https://www.suminphc.taichung.gov.tw/981697/981716/981717/1043520"
+    }
+  ],
+  "fire": [
+    {
+      "id": "fire-knowledge-v6-1",
+      "topic": "分隊與大隊",
+      "question": "四平消防分隊隸屬臺中市政府消防局哪一個大隊？",
+      "options": [
+        "第一救災救護大隊",
+        "第五救災救護大隊",
+        "第八救災救護大隊"
+      ],
+      "answer": 2,
+      "explanation": "消防局組織資料列出，四平分隊隸屬第八救災救護大隊，和北屯、文昌等分隊同屬一個大隊。",
+      "hint": "知識小卡列出了四平分隊所屬的大隊。",
+      "source": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=1,3,19,,,,3"
+    },
+    {
+      "id": "fire-knowledge-v6-2",
+      "topic": "消防車的任務",
+      "question": "照片中紅色的消防車，主要支援哪一類任務？",
+      "options": [
+        "運送一般信件",
+        "火災搶救與救災",
+        "圖書館的借書服務"
+      ],
+      "answer": 1,
+      "explanation": "消防車運送消防人員和救災裝備，支援火災搶救及其他災害救援。",
+      "hint": "消防車上的裝備與救火、救災有關。",
+      "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+    },
+    {
+      "id": "fire-knowledge-v6-3",
+      "topic": "救護車的任務",
+      "question": "照片中白色的救護車，主要服務哪一種需要？",
+      "options": [
+        "緊急傷病患的救護與送醫",
+        "一般乘客的旅遊接送",
+        "郵局包裹的定期運送"
+      ],
+      "answer": 0,
+      "explanation": "救護車執行緊急救護，協助需要緊急醫療照護的傷病患並送往醫院。",
+      "hint": "救護車的重點是緊急醫療照護。",
+      "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+    },
+    {
+      "id": "fire-knowledge-v6-4",
+      "topic": "消防救護電話",
+      "question": "在臺灣，火災或緊急救護主要撥打哪一支電話？",
+      "options": [
+        "110",
+        "165",
+        "119"
+      ],
+      "answer": 2,
+      "explanation": "119 受理消防、災害救援與緊急救護需求；報案時要說明地點和發生的事情。",
+      "hint": "這支電話和消防隊的救災、救護工作有關。",
+      "source": "https://english.taichung.gov.tw/1066937/1066953/1066954/1341143"
+    }
+  ],
+  "police": [
+    {
+      "id": "police-knowledge-v6-1",
+      "topic": "派出所與分局",
+      "question": "四平派出所與哪一個警察分局同在這座館舍？",
+      "options": [
+        "第五分局",
+        "第一分局",
+        "第三分局"
+      ],
+      "answer": 0,
+      "explanation": "這座館舍結合臺中市政府警察局第五分局與四平派出所，提供治安與為民服務。",
+      "hint": "看看景點介紹中的「第五分局暨四平派出所」。",
+      "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+    },
+    {
+      "id": "police-knowledge-v6-2",
+      "topic": "建築上的英文",
+      "question": "照片中紅色的「POLICE」字樣是什麼意思？",
+      "options": [
+        "郵局",
+        "圖書館",
+        "警察"
+      ],
+      "answer": 2,
+      "explanation": "POLICE 是「警察」的英文，建築上的字樣能幫助人們辨認警察機關。",
+      "hint": "這裡是警察服務社區的地方。",
+      "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+    },
+    {
+      "id": "police-knowledge-v6-3",
+      "topic": "警察報案電話",
+      "question": "遇到需要警察處理的緊急危險，主要撥打哪一支電話？",
+      "options": [
+        "119",
+        "110",
+        "165"
+      ],
+      "answer": 1,
+      "explanation": "110 是警察報案電話；119 用於消防與緊急救護，165 提供反詐騙諮詢。",
+      "hint": "警察報案與消防救護使用不同的電話。",
+      "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+    },
+    {
+      "id": "police-knowledge-v6-4",
+      "topic": "反詐騙服務",
+      "question": "大人收到可疑訊息，想向警察查證詐騙疑慮，可撥哪一支專線？",
+      "options": [
+        "165",
+        "119",
+        "113"
+      ],
+      "answer": 0,
+      "explanation": "165 是反詐騙諮詢專線，可由大人協助查證可疑訊息；不要只相信訊息裡自稱的身分。",
+      "hint": "這支專線專門協助民眾查證詐騙疑慮。",
+      "source": "https://www.1spc.npa.gov.tw/ch/app/faq/view?id=1879&module=faq&serno=9f84d5f3-5c31-40a9-a0cd-34f593d61b9b"
+    }
+  ]
+}
