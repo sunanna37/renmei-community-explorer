@@ -1,4 +1,4 @@
-import {beginVisit,persist,station,completedCount,completeStation,blank} from './storage.js';
+import {beginVisit,persist,station,completedCount,completeStation,blank} from './storage.js?v=8';
 import {items,ready} from './backpack.js';
 import {artIcon} from './icons.js';
 import {createMap,routeURL,streetURL,placeURL} from './map.js';
