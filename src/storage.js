@@ -9,3 +9,5 @@ export const completedCount=state=>Object.values(state.stations).filter(s=>s.com
 // A newly opened link starts a fresh visit, even when its tab inherited sessionStorage.
 // Refreshing the same tab preserves only that tab's current progress.
 export function beginVisit({storage=globalThis.sessionStorage,navigationType=globalThis.performance?.getEntriesByType?.('navigation')?.[0]?.type}={}){try{if(navigationType!=='reload')storage.removeItem(KEY);}catch{}return load(storage);}
+
+export function canEnterQuiz(state,id,treasure){return Boolean(treasure?.status==='ready'&&treasure.kind==='photo'&&treasure.targets?.length&&treasure.targets.every(t=>state.stations[id]?.found?.includes(t.id)));}
