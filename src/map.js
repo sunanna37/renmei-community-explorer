@@ -8,7 +8,7 @@ export function createMap(el,locations,state,onSelect){
  // The post office and library share a small block. Split their buttons
  // by a few pixels, keeping the stems attached to their real coordinates.
  const placement={
-  school:[30,-19,'right'], temple:[0,-19,'below'],
+  school:[30,-19,'above'], temple:[0,-19,'below'],
   post:[-19,9,'below'], library:[19,-19,'above'],
   health:[-10,-19,'left'], fire:[10,-19,'right'], police:[0,-19,'above']
  };
