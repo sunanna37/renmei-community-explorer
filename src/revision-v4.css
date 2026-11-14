@@ -39,3 +39,9 @@
 .station-pin-left b{right:calc(100% + 3px)}
 .station-pin-right b{left:calc(100% + 3px)}
 @media(max-width:760px){#map{height:clamp(470px,77svh,650px)}.station-pin b{font-size:11px}}
+#map{background:#edf1e5;height:clamp(640px,84svh,850px)}
+.neighborhood-road-name{color:#586553;font:600 11px/22px sans-serif;text-align:center;white-space:nowrap;text-shadow:0 1px #fff,1px 0 #fff,-1px 0 #fff;pointer-events:none}
+.station-marker .station-pin{width:48px;height:48px;border-width:2px}
+.station-pin-art .storybook-icon{width:36px;height:36px}
+.station-pin b{font-size:15px;padding:4px 6px}
+@media(max-width:760px){#map{height:clamp(540px,82svh,690px)}.station-marker .station-pin{width:42px;height:42px}.station-pin-art .storybook-icon{width:31px;height:31px}.station-pin b{font-size:13px;padding:3px 5px}.neighborhood-road-name{font-size:10px}}

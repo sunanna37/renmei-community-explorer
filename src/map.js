@@ -1,16 +1,27 @@
+import {neighborhoodRoads} from './neighborhood-roads.js';
 import {artIcon} from './icons.js';
 export function createMap(el,locations,state,onSelect){
  if(!globalThis.L){el.innerHTML='<p class="notice">地圖程式未載入，請使用下方景點卡繼續探索。</p>';return {remove(){},fit(){},travel(id,arrive){arrive();}};}
- const L=globalThis.L,map=L.map(el,{scrollWheelZoom:false,zoomControl:false,zoomSnap:.25,zoomDelta:.5}).setView([24.189,120.684],15);
+ const L=globalThis.L,map=L.map(el,{scrollWheelZoom:false,zoomControl:false,zoomSnap:.25,zoomDelta:.5,maxZoom:19}).setView([24.189,120.684],15);
  L.control.zoom({zoomInTitle:'放大地圖',zoomOutTitle:'縮小地圖'}).addTo(map);
- const tile=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap 貢獻者</a>',crossOrigin:true}).addTo(map);
- let failed=false;tile.on('tileerror',()=>{if(!failed){failed=true;const p=document.getElementById('map-status');if(p)p.textContent='街道圖暫時無法載入。仍可點景點卡玩尋寶，連線後再試。';}});
+ map.attributionControl.addAttribution('© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap 貢獻者</a>');
+ for(const [name,lines] of Object.entries(neighborhoodRoads)){
+  L.polyline(lines,{color:'#d7dace',weight:12,interactive:false}).addTo(map);
+  L.polyline(lines,{color:'#fffdf5',weight:8,interactive:false}).addTo(map);
+  const points=lines.flat().filter(([lat,lng])=>lat>24.183&&lat<24.194&&lng>120.680&&lng<120.686);
+  if(points.length&&(name.startsWith('崇德路')||name.startsWith('昌平路')||name==='后庄路')){
+   L.marker(points[Math.floor(points.length/2)],{
+    interactive:false,keyboard:false,zIndexOffset:-1500,
+    icon:L.divIcon({className:'neighborhood-road-name',html:name,iconSize:[76,22],iconAnchor:[38,11]})
+   }).addTo(map);
+  }
+ }
  // The post office and library share a small block. Split their buttons
  // by a few pixels, keeping the stems attached to their real coordinates.
  const placement={
-  school:[30,-19,'above'], temple:[0,-19,'below'],
-  post:[-19,9,'below'], library:[19,-19,'above'],
-  health:[-10,-19,'below'], fire:[10,-19,'right'], police:[0,-19,'above']
+  school:[36,-23,'above'], temple:[0,-19,'below'],
+  post:[-25,12,'below'], library:[25,-24,'above'],
+  health:[-16,-22,'below'], fire:[16,-22,'right'], police:[0,-19,'above']
  };
  for(const location of locations){
   const [x,y,labelSide]=placement[location.id];
@@ -55,7 +66,7 @@ export function createMap(el,locations,state,onSelect){
  }
  const bounds=L.latLngBounds(locations.map(location=>[location.lat,location.lng]));
  function fit(){
-  const padding=L.point(map.getSize().x<480?70:84,58);
+  const padding=L.point(map.getSize().x<480?66:75,56);
   map.setMinZoom(0);
   const zoom=Math.min(18,map.getBoundsZoom(bounds,false,padding.multiplyBy(2)));
   map.setMinZoom(Math.max(0,zoom-1.5));
