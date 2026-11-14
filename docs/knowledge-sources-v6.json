@@ -1,6 +1,6 @@
 {
   "scope": "六站各四題景點知識，國小短句三選一；延續現有互動闖關。",
-  "verifiedAt": "2026-11-04",
+  "verifiedAt": "2026-11-14",
   "sources": {
     "temple": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68",
     "post": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5",
@@ -30,9 +30,9 @@
         "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
       },
       {
-        "title": "建廟歷史",
-        "text": "文昌廟現址於清同治年間興建，1871 年竣工，屬於清領時期的建築。",
-        "source": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Cultural/3_0011.aspx?i=68"
+        "title": "青蔥的寓意",
+        "text": "民間拜文昌帝君時會準備青蔥，因為「蔥」和「聰」同音，寄託讀書開竅、頭腦聰明的願望。",
+        "source": "https://www.th.gov.tw/Epaper_Content/237/8339/"
       }
     ],
     "post": [
@@ -53,7 +53,7 @@
       },
       {
         "title": "認識自動櫃員機",
-        "text": "自動櫃員機是金融服務設備；四張犁郵局設有自動櫃員機等服務設施。",
+        "text": "ATM 是自動櫃員機，也常叫提款機，可以辦理提款等金融服務。",
         "source": "https://www.post.gov.tw/post/internet/I_location/post.jsp?ID=1302&prsb_no=002139-5"
       }
     ],
@@ -74,8 +74,8 @@
         "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
       },
       {
-        "title": "分齡閱讀",
-        "text": "四張犁分館三樓規劃青少年閱覽區；分齡設計能回應不同年齡讀者的需要。",
+        "title": "兒童閱覽區",
+        "text": "四張犁分館一樓的兒童閱覽區為幼兒及學齡兒童規劃，提供適合小朋友的閱讀空間。",
         "source": "https://www.library.taichung.gov.tw/lib/Introduction/index?Parser=99,114,284"
       }
     ],
@@ -103,9 +103,9 @@
     ],
     "fire": [
       {
-        "title": "分隊與大隊",
-        "text": "消防局組織資料列出，四平分隊隸屬第八救災救護大隊，和北屯、文昌等分隊同屬一個大隊。",
-        "source": "https://www.fire.taichung.gov.tw/content/index.asp?Parser=1,3,19,,,,3"
+        "title": "報案地點",
+        "text": "撥打 119 時，說清楚事故的正確地址。若不知道門牌，可以說出附近的明顯地標或路口，幫助救援人員找到現場。",
+        "source": "https://www.fire.taichung.gov.tw/faq/index.asp?Parser=27%2C6%2C47%2C%2C%2C%2C%2C110"
       },
       {
         "title": "消防車的任務",
@@ -125,9 +125,9 @@
     ],
     "police": [
       {
-        "title": "派出所與分局",
-        "text": "這座館舍結合臺中市政府警察局第五分局與四平派出所，提供治安與為民服務。",
-        "source": "https://www.taichung.gov.tw/8868/8872/9962/900767"
+        "title": "警車警示燈",
+        "text": "巡邏警車常見紅色和藍色的車頂警示燈，用來提醒行人和其他用路人注意。",
+        "source": "https://ws.thb.gov.tw/001/Upload/OldFile/resource/tmvso/html/doc/%E8%87%AA%E8%A1%8C%E7%A0%94%E7%A9%B6%E6%A1%88/99%E5%B9%B4-%E8%BB%8A%E8%BA%AB%E5%BC%8F%E6%A8%A3%E8%88%87%E7%89%B9%E6%AE%8A%E8%BB%8A%E7%A8%AE%E5%9C%96%E6%AA%94%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A.pdf"
       },
       {
         "title": "建築上的英文",

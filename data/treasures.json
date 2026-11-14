@@ -74,15 +74,16 @@
         "feedback": "你找到上方綠色的大招牌了！仔細觀察就能發現社區的小細節。"
       },
       {
-        "id": "post-real-photo-v5-target-2",
+        "id": "post-real-photo-v5-target-atm",
         "locationId": "post",
         "imageId": "post-real-photo-v5",
-        "name": "郵局的入口",
-        "x": 0.46,
-        "y": 0.713,
-        "rx": 0.046,
-        "ry": 0.115,
-        "feedback": "你找到郵局的入口了！仔細觀察就能發現社區的小細節。"
+        "name": "門口旁的提款機",
+        "x": 0.48,
+        "y": 0.52,
+        "rx": 0.065,
+        "ry": 0.13,
+        "feedback": "你找到門口旁的提款機了！",
+        "view": "closeup"
       },
       {
         "id": "post-real-photo-v5-target-3",
@@ -95,7 +96,15 @@
         "ry": 0.1,
         "feedback": "你找到右邊的花圃了！仔細觀察就能發現社區的小細節。"
       }
-    ]
+    ],
+    "closeup": {
+      "image": "assets/images/post-selected-v5-11.jpg",
+      "width": 576,
+      "height": 1024,
+      "label": "郵局門口旁的提款機近照",
+      "credit": "JOE廖昭豪",
+      "source": "https://maps.app.goo.gl/QWxSH3DE14AyJB1i6"
+    }
   },
   "library": {
     "status": "ready",
