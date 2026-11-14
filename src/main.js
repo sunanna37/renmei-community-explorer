@@ -2,7 +2,7 @@ import {beginVisit,persist,station,completedCount,completeStation,blank,canEnter
 import {items,ready} from './backpack.js';
 import {openPhoto} from './photo-viewer.js?v=11';
 import {artIcon} from './icons.js';
-import {createMap,routeURL,streetURL,placeURL} from './map.js?v=11';
+import {createMap,routeURL,streetURL,placeURL} from './map.js?v=12';
 import {animateIntro,person} from './animation.js';
 import {setupTreasure} from './treasure.js?v=11';
 import {readPhotoOverrides,storePhotoOverride,asScene,photoFromScene,mountPhotoEditor} from './photo-editor.js';

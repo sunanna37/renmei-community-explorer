@@ -22,3 +22,20 @@
 #photo-magnifier{position:absolute;box-sizing:border-box;width:118px;height:118px;border:2px solid #fff;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none;background-repeat:no-repeat;box-shadow:0 2px 12px #0009}
 #lightbox #photo-attribution{margin:12px 0 0}
 .treasure-views{margin:0 0 20px}.treasure-views [aria-pressed=true],#photo-loupe[aria-pressed=true]{background:#365e48;color:white}
+#map{height:clamp(560px,76svh,740px)}
+.station-marker-stem,.station-marker-dot{position:absolute;pointer-events:none}
+.station-marker-stem{height:2px;background:#365e48;transform-origin:left center}
+.station-marker-dot{width:8px;height:8px;transform:translate(-50%,-50%);border:1.5px solid white;border-radius:50%;background:#365e48}
+.station-marker .station-pin{position:absolute;display:block;width:36px;height:36px;min-height:0;transform:translate(-50%,-50%);padding:0;border:1.5px solid #52765c;border-radius:50%;background:#fffdf6;box-shadow:0 2px 5px #294f3850;color:#254b36}
+.station-marker .station-pin:hover,.station-marker .station-pin:focus-visible{transform:translate(-50%,-50%);outline:3px solid #e2a840;outline-offset:2px}
+.station-pin-art{display:grid;place-items:center;width:100%;height:100%}
+.station-pin-art .storybook-icon{width:27px;height:27px;border-radius:0}
+.station-pin-check{position:absolute;right:-4px;top:-6px;background:#365e48;color:white;border-radius:50%;width:16px;height:16px;font:700 12px/16px sans-serif}
+.station-pin b{position:absolute;display:block;padding:3px 5px;border-radius:6px;background:#fffdf6;box-shadow:0 1px 3px #294f383a;font-size:12px;line-height:1.2;white-space:nowrap}
+.station-pin-above b,.station-pin-below b{left:50%;transform:translateX(-50%)}
+.station-pin-above b{bottom:calc(100% + 3px)}
+.station-pin-below b{top:calc(100% + 3px)}
+.station-pin-left b,.station-pin-right b{top:50%;transform:translateY(-50%)}
+.station-pin-left b{right:calc(100% + 3px)}
+.station-pin-right b{left:calc(100% + 3px)}
+@media(max-width:760px){#map{height:clamp(470px,77svh,650px)}.station-pin b{font-size:11px}}
